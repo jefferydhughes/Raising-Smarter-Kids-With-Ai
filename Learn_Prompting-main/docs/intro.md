@@ -10,6 +10,8 @@ Prompt engineering (PE) is the process of **communicating effectively with an AI
 
 This course is designed for **beginners**, making it the perfect starting point if you're new to AI and PE. However, even if you're not a beginner, you'll still find valuable insights within this course. This course is the **most comprehensive** prompt engineering course available, and the content ranges from an introduction to AI to advanced PE techniques.
 
+If you are looking for our book on Raising Smarter Kids with Ai, it is available here: https://a.co/d/0DU3cLV
+
 ## Ethos and Philosophy
 
 This course is a mix of lessons and practical prompting projects.
