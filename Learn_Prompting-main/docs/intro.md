@@ -72,7 +72,6 @@ Below is a brief overview of each chapter:
 **Miscellaneous**: A collection of additional topics and techniques related to prompt engineering
 
 
-- Follow us on [Twitter](https://twitter.com/learnprompting)
-- Join the HackAPrompt Competition until May 26 [Twitter](https://www.aicrowd.com/challenges/hackaprompt-2023)
+- Follow us on [Instagram](https://instagram.com/skillsamurai)
 
-Even the smallest amount of feedback is very helpful!
+
